@@ -7,7 +7,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYOTA-KOBA" />
 </a>
 
-<br />
+<br>
 
 ### About 
 I am a software engineer from Chiba, Japan.
