@@ -7,7 +7,7 @@
 ## About 
 I am a software engineer from Japan.
 
-## Language
+## Languages
 JavaScript/TypeScript/Ruby/PHP
 
 ### Links
